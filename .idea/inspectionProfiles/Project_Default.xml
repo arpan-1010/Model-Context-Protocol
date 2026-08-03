@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="streamlit" />
+          <option value="llama-index" />
+          <option value="llama-index-core" />
+          <option value="llama-index-llms-huggingface" />
+          <option value="llama-index-embeddings-huggingface" />
+          <option value="llama-index-vector-stores-chroma" />
+          <option value="chromadb" />
+          <option value="transformers" />
+          <option value="accelerate" />
+          <option value="sentence-transformers" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
